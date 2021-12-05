@@ -18,7 +18,7 @@ $teamspeak3    = ""; // teamspeak3 sunucu adresiniz (bos birakilirsa launcherda 
 
 // Launcher icerisindeki updater ile ilgili bilgiler
 $exe_version = "2020.10.3.151"; // launcher sag tiklayip ozelliklerde yazan surum numarasi exe ile bu tutmadiginda update_file indirilip kurulur
-$update_file = "https://yalc.in/fivem_launcher/update.zip"; // surum numarasi tutmadiginda indirilecek dosyanin adresi
+$update_file = "https://github.com/Hackerinos/Website/update.zip"; // surum numarasi tutmadiginda indirilecek dosyanin adresi
 
 // IP tespiti
 $ip = '92.42.46.174';
